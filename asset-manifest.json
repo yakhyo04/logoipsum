@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/logoipsum/static/css/main.e7424494.chunk.css",
+    "main.css": "/logoipsum/static/css/main.ea15a0db.chunk.css",
     "main.js": "/logoipsum/static/js/main.78abb9df.chunk.js",
     "main.js.map": "/logoipsum/static/js/main.78abb9df.chunk.js.map",
     "runtime-main.js": "/logoipsum/static/js/runtime-main.1dad8292.js",
@@ -8,7 +8,7 @@
     "static/js/2.92166b17.chunk.js": "/logoipsum/static/js/2.92166b17.chunk.js",
     "static/js/2.92166b17.chunk.js.map": "/logoipsum/static/js/2.92166b17.chunk.js.map",
     "index.html": "/logoipsum/index.html",
-    "static/css/main.e7424494.chunk.css.map": "/logoipsum/static/css/main.e7424494.chunk.css.map",
+    "static/css/main.ea15a0db.chunk.css.map": "/logoipsum/static/css/main.ea15a0db.chunk.css.map",
     "static/js/2.92166b17.chunk.js.LICENSE.txt": "/logoipsum/static/js/2.92166b17.chunk.js.LICENSE.txt",
     "static/media/Hero3D.155b1b0e.png": "/logoipsum/static/media/Hero3D.155b1b0e.png",
     "static/media/index.1ab3aecf.png": "/logoipsum/static/media/index.1ab3aecf.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.1dad8292.js",
     "static/js/2.92166b17.chunk.js",
-    "static/css/main.e7424494.chunk.css",
+    "static/css/main.ea15a0db.chunk.css",
     "static/js/main.78abb9df.chunk.js"
   ]
 }
