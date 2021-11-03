@@ -1,0 +1,91 @@
+.footer__heading{
+    width: 623px;
+    font-size: 70px;
+}
+.footer__div{
+    background-color: #e0e0e4;
+    padding: 15px 10px;
+    border-radius: 8px;
+}
+.yearly{
+    background-color: #5454D4;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+.monthly{
+    padding: 10px 20px;
+}
+.footer__box{
+    background-color: #EAE9F2;
+    color: #696871;
+    text-align: center;
+    padding: 40px 50px;
+    font-size: 28px;
+    border-radius: 8px;
+}
+.footer__box--item{
+    background-color: #FF7143;
+    color: #fff;
+    text-align: center;
+    padding: 60px 70px;
+    border-radius: 8px;
+    font-size: 28px;
+}
+.footer__text{
+    font-size: 56px;
+}
+.footer__box-btn{
+    background-color: #fff;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.footer__btn{
+    background-color: #9F3919;
+    color: #fff;
+    padding: 10px 50px;
+    border-radius: 5px;
+}
+
+@media(max-width: 900px){
+    .footer__list{
+        display: block;
+    }
+    .footer__div{
+        width: 200px;
+    }
+    .footer__box{
+        margin-bottom: 30px;
+    }
+    .footer__box--item{
+        margin-bottom: 30px;
+    }
+}
+@media(max-width: 700px){
+    .footer{
+        width: 100%;
+        max-width: 100%;
+    }
+    .footer__heading{
+        width: auto;
+        font-size: 50px;
+    }
+}
+@media(max-width: 550px){
+    .footer{
+        width: 400px;
+        font-size: 20px;
+    }
+    .footer__text{
+        font-size: 40px;
+    }
+    .footer__box-btn{
+        font-size: 20px;
+    }
+}
+@media(max-width: 400px){
+    .footer__btn{
+        font-size: 20px;
+        padding: 10px 30px;
+    }
+}
