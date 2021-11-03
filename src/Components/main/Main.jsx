@@ -43,7 +43,7 @@ function Main(){
                    </div>
                </nav>
                <nav className="main__nav">
-                   <div>
+                   <div className="main__div">
                        <h2 className="main__heading">In-depth metrics</h2>
                        <p className="main__text">Accurate, real-time reporting at your fingertips. Getting data has never been easier.</p>
                        <a href="#" className="learn">Learn more</a>

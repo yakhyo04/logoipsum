@@ -70,6 +70,13 @@
         width: auto;
         font-size: 50px;
     }
+    .footer__heading, .footer__div{
+        margin-left: 100px;
+    }
+    .footer__box, .footer__box--item{
+        justify-content: center;
+        margin-left: 100px;
+    }
 }
 @media(max-width: 550px){
     .footer{
@@ -82,10 +89,17 @@
     .footer__box-btn{
         font-size: 20px;
     }
+    .footer__box, .footer__box--item{
+        justify-content: center;
+        margin-left: 10px;
+    }
 }
 @media(max-width: 400px){
     .footer__btn{
         font-size: 20px;
         padding: 10px 30px;
+    }
+    .footer__box, .footer__box--item{
+        margin-left: 0px;
     }
 }
