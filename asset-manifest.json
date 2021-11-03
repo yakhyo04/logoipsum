@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/logoipsum/static/css/main.7a0cfc5e.chunk.css",
-    "main.js": "/logoipsum/static/js/main.e91ef9dd.chunk.js",
-    "main.js.map": "/logoipsum/static/js/main.e91ef9dd.chunk.js.map",
+    "main.css": "/logoipsum/static/css/main.50b966dd.chunk.css",
+    "main.js": "/logoipsum/static/js/main.e7692f04.chunk.js",
+    "main.js.map": "/logoipsum/static/js/main.e7692f04.chunk.js.map",
     "runtime-main.js": "/logoipsum/static/js/runtime-main.1dad8292.js",
     "runtime-main.js.map": "/logoipsum/static/js/runtime-main.1dad8292.js.map",
     "static/js/2.92166b17.chunk.js": "/logoipsum/static/js/2.92166b17.chunk.js",
     "static/js/2.92166b17.chunk.js.map": "/logoipsum/static/js/2.92166b17.chunk.js.map",
     "index.html": "/logoipsum/index.html",
-    "static/css/main.7a0cfc5e.chunk.css.map": "/logoipsum/static/css/main.7a0cfc5e.chunk.css.map",
+    "static/css/main.50b966dd.chunk.css.map": "/logoipsum/static/css/main.50b966dd.chunk.css.map",
     "static/js/2.92166b17.chunk.js.LICENSE.txt": "/logoipsum/static/js/2.92166b17.chunk.js.LICENSE.txt",
     "static/media/Hero3D.155b1b0e.png": "/logoipsum/static/media/Hero3D.155b1b0e.png",
     "static/media/index.1ab3aecf.png": "/logoipsum/static/media/index.1ab3aecf.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.1dad8292.js",
     "static/js/2.92166b17.chunk.js",
-    "static/css/main.7a0cfc5e.chunk.css",
-    "static/js/main.e91ef9dd.chunk.js"
+    "static/css/main.50b966dd.chunk.css",
+    "static/js/main.e7692f04.chunk.js"
   ]
 }
