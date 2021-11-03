@@ -34,7 +34,7 @@ function Main(){
                </ul>
                <nav className="main__nav">
                    <div className='main__img'>
-                       <img src={index} alt="index" />
+                       <img className="index" src={index} alt="index" />
                    </div>
                    <div className='main__div'>
                        <h2 className='main__heading'>Subscription index</h2>
@@ -49,7 +49,7 @@ function Main(){
                        <a href="#" className="learn">Learn more</a>
                    </div>
                    <div className="main__img">
-                       <img src={metrics} alt="" />
+                       <img className="index" src={metrics} alt="" />
                    </div>
                </nav>
                <ul className="main__list">

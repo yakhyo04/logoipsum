@@ -38,6 +38,11 @@ a:hover{
         width: 400px;
     }
 }
+@media(max-width: 400px){
+    .header{
+        width: 300px;
+    }
+}
 
 .show-links {
     height: 10rem;

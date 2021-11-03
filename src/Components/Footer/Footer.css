@@ -95,11 +95,28 @@
     }
 }
 @media(max-width: 400px){
+    .footer{
+        width: 300px;
+        justify-content: center;
+    }
     .footer__btn{
-        font-size: 20px;
-        padding: 10px 30px;
+        font-size: 18px;
+        padding: 10px 20px;
     }
     .footer__box, .footer__box--item{
         margin-left: 0px;
+        font-size: 18px;
+    }
+    .footer__heading{
+        font-size: 30px;
+        margin-left: 0;
+    }
+    .footer__div{
+        margin-left: 0;
+        padding: 10px;
+        display: block;
+    }
+    .yearly{
+        padding: 6px 10px;
     }
 }

@@ -84,4 +84,23 @@
     .main{
         width: 300px;
     }
+    .main__div{
+        width: auto;
+        margin-left: 0;
+    }
+    .main__heading{
+        width: 300px;
+        font-size: 30px;
+    }
+    .main__text{
+        width: 300px;
+        font-size: 16px;
+    }
+    .main__img{
+        margin-left: 10px;
+    }
+    .index{
+        width: 255px;
+        margin-left: 10px;
+    }
 }
