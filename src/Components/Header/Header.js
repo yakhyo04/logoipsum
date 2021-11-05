@@ -1,12 +1,12 @@
 
-function headerjs(){
+// function Headerjs(){
+//         const navToggle = document.querySelector(".nav-toggle");
+//         const links = document.querySelector(".links");
+        
+//         navToggle.addEventListener("click", ()=>{
+//             links.classList.toggle("show-links")
+//         })
+// }   
 
-    const navToggle = document.querySelector(".nav-toggle");
-    const links = document.querySelector(".links");
-    
-    navToggle.addEventListener("click", ()=>{
-        links.classList.toggle("show-links")
-    });
-}   
 
-// headerjs();
+// export default Headerjs;

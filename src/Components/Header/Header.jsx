@@ -1,16 +1,15 @@
 import './Header.css';
 import logoipsum from '../image/logoipsum.svg';
-import './Header.js';
 
 function Header() {
+        const links = document.querySelector(".links");
     return (
         <header className="header">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"/>
             <div className="container">
             <ul>
                 <li>
                 <img src={logoipsum} alt="" />
-                <button class="nav-toggle">
+                <button class="nav-toggle" onClick={()=>links.classList.toggle("show-links")}>
             <i class="fas fa-bars"></i>
           </button>
                 </li>
