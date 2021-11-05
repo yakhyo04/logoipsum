@@ -15,6 +15,7 @@ function Header() {
           </button>
                 </li>
                 {toggleBtn ?
+               
                 <ul className="toggle__list">
                     <li className="toggle__item"><a href="#">Home</a></li>
                     <li className="toggle__item"><a href="#">Features</a></li>
@@ -22,6 +23,7 @@ function Header() {
                     <li className="toggle__item"><a href="#">Blog</a></li>
                     <li><a src="#" className="header__link">Get Started</a></li>
                 </ul>
+               
                 : null 
             }
             <li className="links">

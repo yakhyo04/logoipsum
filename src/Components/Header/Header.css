@@ -1,3 +1,8 @@
+/* .menu{
+    position: fixed;
+    width: 1140px;
+    box-shadow: 1px 4px 7px rgba(0, 0, 0, .1);
+} */
 ul{
     padding: 0;
     list-style-type: none;
